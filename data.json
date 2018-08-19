@@ -1,0 +1,49 @@
+{
+	"basics":{
+		"name":"sandhya",
+		"role":"mean-stack",
+		"mobile":"+91 8895342715",
+		"email":"sandhyakandula1998@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree" :"B-Tech(computer science and engineering)",
+			"Institute":"vignan Nirula",
+			"data":["2016-20","85%"]
+		},
+		{
+			"degree" :"Inter(mpc)",
+			"Institute":"sri gayatri",
+			"data":["2014-16","87%"]
+		},
+		{
+			"degree" :"10th(ssc)",
+			"Institute":"sri chaitanya",
+			"data":["2013-14","87%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"content":["Python","C","Java","R","C++"]
+		},
+		{
+		    "title":"Data Basis",
+			"content":["Sql","Oracle","Mysql"]
+		},
+		{
+		    "title":"Web Technology",
+			"content":["HTML","XML","JAVASCRIPT","CSS"]
+		},
+		
+		{
+		    "title":"OPerating System",
+			"content":["Windows","Linux","Unix"]
+		}
+
+
+	]
+}
